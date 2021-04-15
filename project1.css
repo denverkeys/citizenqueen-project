@@ -1,0 +1,62 @@
+.title {
+    display: flex;
+    justify-content: center;
+    padding: 2rem;    
+    /* border-style: solid; */
+}
+
+body {
+    background-color: #c58177;
+}
+
+.title-words {
+    color: white;
+    font-family: 'Architects Daughter', cursive;
+    font-size: 100px;
+}
+
+.first-section {
+    display: flex;
+    /* justify-content: center; */
+    align-items: center;
+    flex-direction: row;
+    /* border: solid; */
+    align-content: center;
+    /* flex-wrap: wrap; */
+}
+
+/* .image-holder {
+    border: solid;
+} */
+
+.text-holder {
+    /* border: solid; */
+    /* align-content: center; */
+    padding: 1rem;
+    color: white;
+    font-weight: bold;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.picture {
+    width: 16rem;
+    height: 16rem;
+    /* padding: 1rem; */
+}
+
+.big-section{
+    display: flex;
+    justify-content: center;
+}
+.big-picture {
+    width: 40rem;
+    height: 20rem;
+    /* border: solid; */
+    /* justify-content: center; */
+    /* flex-direction: column;
+    flex-wrap: wrap; */
+
+}
+/* .big-picture img{
+    justify-content: center;
+} */
